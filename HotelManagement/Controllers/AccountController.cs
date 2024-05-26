@@ -17,7 +17,8 @@ using Microsoft.AspNetCore.Identity;
 namespace HotelManagement.Controllers
 {
     public class AccountController : Controller
-    {
+    {   
+        //sss
         private readonly INhanvienRepository _nvrepo;
         private readonly ITaikhoanRepository _taikhoanRepo;
      
